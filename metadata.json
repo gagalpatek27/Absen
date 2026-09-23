@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Siswa Madrasah",
+  "description": "Aplikasi Sistem Absensi Siswa Madrasah berbasis Google Sheets dan Google Apps Script, siap deploy ke Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
